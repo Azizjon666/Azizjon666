@@ -1,4 +1,4 @@
-### Hi. I'm Java Beckend Developer <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47u1upe7fo2be7xrsgp1dl7t4xuepl3qtn4hmwy4k1&rid=giphy.gif&ct=s" width="40px">
+### Hi. I'm Azizjon Abdualiyev <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47u1upe7fo2be7xrsgp1dl7t4xuepl3qtn4hmwy4k1&rid=giphy.gif&ct=s" width="40px">
 
 <!--
 **Azizjon666/Azizjon666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
